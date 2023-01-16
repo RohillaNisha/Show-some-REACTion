@@ -1,47 +1,47 @@
 .navButtonsHolder {
-  display:flex ;
-  flex-direction: row;
-  align-items: center;
-  border: 1px solid black;
-  justify-content: space-between;
+    display:flex ;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    justify-content: space-between;
 }
 
 .navLinks {
-  display: flex;
-  flex-direction: row;
+    display: flex;
+    flex-direction: row;
 
 }
 .headerLink{
-  padding-right: 4vw;
-  align-items: center;
+    padding-right: 4vw;
+    align-items: center;
 
-  
+
 }
 
 .footerHolder{
-  display:flex;
-  flex-direction: row;
-  border: 1px solid black;
-  position:fixed ;
-  bottom: 0;
-  width:100%;
+    display:flex;
+    flex-direction: row;
+    border: 1px solid black;
+    position:fixed ;
+    bottom: 0;
+    width:100%;
 }
 
 
 .pageContainer{
-display:grid;
-grid-template-columns: 2fr 8fr; 
+    display:grid;
+    grid-template-columns: 2fr 8fr;
 
 }
 
 .main-card--container{
-  width: 15vw;
-  height: 5vh;
-  display:flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+    width: 15vw;
+    height: 5vh;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .card-container{
-  border:1px solid black;
+    border:1px solid black;
 }

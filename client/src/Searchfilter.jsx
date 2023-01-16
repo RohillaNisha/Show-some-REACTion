@@ -1,14 +1,14 @@
 import React from 'react'
 
-const Searchfilter = () => {
-  return (
-    <>
-        <aside className="filterContainer">
-            <p> Enter name of artist</p>
-            <input type="text"></input>
-        </aside>
-    </>
-  )
+const SearchFilter = () => {
+    return (
+        <>
+            <aside className="filterContainer">
+                <p> Enter name of artist</p>
+                <input type="text"></input>
+            </aside>
+        </>
+    )
 }
 
-export default Searchfilter
+export default SearchFilter;

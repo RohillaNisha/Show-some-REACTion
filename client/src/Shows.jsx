@@ -5,7 +5,6 @@ import ShowCard from "./Showcard.jsx";
 function Shows() {
 
     const [showData, setShowData]= React.useState(ShowAPI);
-    console.log(showData);
 
     return (
         <>
